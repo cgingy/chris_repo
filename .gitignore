@@ -1,4 +1,5 @@
 /* ignore WP core and misc*/
+wp-content/
 wp-content/blogs.dir/
 wp-content/upgrade/
 wp-content/backup-db/
