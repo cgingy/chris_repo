@@ -1,0 +1,9 @@
+Creating a new text file in my test branch via git CMD.
+
+NOTE: To make a new branch, you must use 'git checkout -b <branch name>' to do this from a new branch.
+
+To commit changes, you'll need to do 'git commit -m "changes made to XXXXX"' and that should update/upload your branch and changes to the repo on github.
+
+You can also add extra commits to a file if you forgot something with 'git commit --amend -m "New commit message"'
+
+Once that is added, you then need to do 'git push' 
