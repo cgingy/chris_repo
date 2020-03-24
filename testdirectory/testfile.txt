@@ -1,1 +1,3 @@
 This is a test file in a test directory
+
+I will be updating these files while I learn git cmd line.
