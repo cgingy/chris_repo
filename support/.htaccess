@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^support/(csv|pdf)/.+$ /support/index.php 
