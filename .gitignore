@@ -1,4 +1,6 @@
 /* ignore WP core and misc*/
+wp-content/mu-plugins/redis-cache-pro.php
+wp-content/object-cache.php
 wp-content/blogs.dir/
 wp-content/upgrade/
 wp-content/backup-db/
