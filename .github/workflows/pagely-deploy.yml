@@ -12,7 +12,7 @@ jobs:
         uses: pagely/action-deploy@v1
         with:
           PAGELY_DEPLOY_DEST: "/httpdocs/wp-content"
-          PAGELY_INTEGRATION_SECRET: ${{secrets.PAGELY_INTEGRATION_SECRET}}
+          PAGELY_INTEGRATION_SECRET: ${{secrets.PAGELY}}
           PAGELY_INTEGRATION_ID: "HhYn7RelGEiYFJz7nzvKl9"
           PAGELY_APP_ID: "34101"
           PAGELY_WORKING_DIR: ${{github.workspace}}
